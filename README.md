@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on a Custom 8 Bit CPU, 
-- 📫 How to reach me Telegram:
+- 📫 How to reach me Telegram: https://telegram.org/dl
 - 😄 Pronouns: She/Them
 
 <!---
