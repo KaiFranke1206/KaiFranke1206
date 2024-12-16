@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on a Custom 8 Bit CPU, 
 - 📫 How to reach me Telegram:
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Them
 
 <!---
 KaiFranke1206/KaiFranke1206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
